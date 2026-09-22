@@ -356,6 +356,16 @@ header nav ul li:hover a {
         padding-left: 0;
     }
 
+    .main,
+    .habitat,
+    .manzanos,
+    .zumos,
+    .contactos {
+        width: 100%;
+        max-width: none;
+        padding: 10px 12px;
+    }
+
     .body-nav {
         position: static;
         padding: 12px 8px 0;
